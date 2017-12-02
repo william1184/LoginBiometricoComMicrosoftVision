@@ -1,0 +1,16 @@
+{
+  "name": "Ministério do Meio Ambiente",
+  "short_name": "Min.MeioAmbiente",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Agora com biometria.",
+
+"permissions": {
+  "audio-capture": {
+    "description": "Required to capture audio using getUserMedia()"
+  },
+  "video-capture": {
+    "description": "Required to capture video using getUserMedia()"
+  }
+}

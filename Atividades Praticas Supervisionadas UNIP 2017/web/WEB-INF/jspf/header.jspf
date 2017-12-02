@@ -1,0 +1,17 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<header>
+    
+    <nav class="nav " style="background-color: #0e7421">
+        <div style="margin-left: 2%;margin-top: 1%">
+            <a href="<%= request.getContextPath()%>/home.jsp" class="text-justify"><small >Ministério do</small><br><span id='logo'><h1 >Meio Ambiente</h1></span></a></logo>
+            <br>
+<!--            <div style="float:right">
+                <a class="btn btn-danger">SAIR</a>
+            </div>-->
+        </div>
+
+    </nav>
+    <script>var ctx = '<%= request.getContextPath()%>'</script>
+    <br>
+</header>

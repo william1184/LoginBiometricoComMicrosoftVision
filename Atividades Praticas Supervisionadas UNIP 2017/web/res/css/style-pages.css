@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 07/11/2017, 23:39:33
+    Author     : Familia
+*/
+html {
+   height: 100%;
+}
+
+body {
+   min-height: 100%;
+}
+
+a:link,a:visited,a:hover{
+    text-decoration: none;
+    font-family: 'open_sansextrabold','Open Sans','Arial,Helvetica,sans-serif';
+    color:white;
+}
+#logo{
+    font-family: "open_sansextrabold",'Open Sans',Arial,Helvetica,sans-serif;
+    font-size: 2.75em;
+    line-height: .8em;
+    font-weight: 800;
+    letter-spacing: -1px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.banner-Min{
+    background-image: url('../images/banner.jpg');
+    
+}

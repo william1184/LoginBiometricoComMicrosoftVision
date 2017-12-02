@@ -1,0 +1,9 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<footer>
+    <div class="container">
+        <div class="footer text-center"> 
+            <p>Copyright&copy; - Desenvolvido pela Equipe de TI <a href="">UNIP</a>
+        </div>                
+    </div>
+</footer>
